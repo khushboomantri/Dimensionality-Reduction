@@ -289,7 +289,7 @@ if __name__ == '__main__':
 
     '''
     # Save output to txtfile.
-    title = "assign1_junz"
+    title = "assign"
     with open("%s.txt"%title,"w") as f:
         f.write( )
     '''
