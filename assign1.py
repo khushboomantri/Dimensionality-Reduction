@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-@topic: CSE573 HW1 - Dimensionality Reduction
-@author: junzhuang
-"""
+
 
 import argparse
 import pandas as pd
